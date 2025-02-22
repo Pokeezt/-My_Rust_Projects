@@ -2,7 +2,7 @@
 
 Este guia descreve como instalar o Visual Studio Code (VS Code) e configurar o Rust em três distribuições populares de Linux: **Arch Linux**, **NixOS** e **Fedora**.
 
-## 1. Instalar o VS Code
+## Instalar o VS Code
 
 ### **Arch Linux (e derivados como EndeavourOS, CachyOS ou Manjaro)**
 No Arch Linux, o VS Code pode ser facilmente instalado a partir do AUR (Arch User Repository).
@@ -41,7 +41,7 @@ cd hello_world
 code .
 ```
 
-## Problemas comuns
+## ⚠️ Problemas comuns
 
 Fedora: Se você não consegue abrir o VS Code após a instalação, certifique-se de que o Flatpak não está interferindo. Use a instalação via repositório oficial da Microsoft.
 
